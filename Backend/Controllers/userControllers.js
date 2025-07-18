@@ -24,41 +24,5 @@ const createUser =  async(req,res)=>{
 }
 
 
-// ************************* Create User **********************
-const getUser = async(req,res)=>{
-    try {
-        
-    } catch (error) {
-        
-    }
-}
 
-
-
-// ************************* Create User **********************
-const getAllUser = async(req,res)=>{
-    try {
-        
-    } catch (error) {
-        
-    }
-}
-
-// ************************* Create User **********************
-
-const deleteUser = async(req,res)=>{
-    try {
-        
-    } catch (error) {
-        
-    }
-}
-
-
-
-
-
-
-
-
-export {createUser , getUser, getAllUser , deleteUser}
+export {createUser}
