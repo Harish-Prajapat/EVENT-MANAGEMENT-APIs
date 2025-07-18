@@ -1,6 +1,6 @@
  Event Management API -- Assignment By Surefy Technologies
  
-These are the api for managine events , users and event-registration in Node.js, Express.js, PostgreSQL
+These are the api for events-management , users and event-registration using Node.js, Express.js, PostgreSQL
 
 Instructions For Setup
 
